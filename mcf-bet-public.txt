@@ -1,4 +1,4 @@
-1714209729
+1714272658
 https://raw.githubusercontent.com/jimmy20180130/mcf-bet-public/main/auth/auth.js
 https://raw.githubusercontent.com/jimmy20180130/mcf-bet-public/main/update.js
 https://raw.githubusercontent.com/jimmy20180130/mcf-bet-public/main/start.bat
